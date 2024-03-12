@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 100;
+}
+
+.Home{
+    text-decoration: none;
+    list-style: none;
+}
+
+.About{
+    text-decoration: none;
+}
+
+.Services{
+    text-decoration: none;
+}
+
+.Blog{
+    text-decoration: none;
+}
